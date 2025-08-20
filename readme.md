@@ -37,4 +37,4 @@ Uma **landing page completa**, unindo os elementos anteriores em uma página bem
 ## 📦 Como visualizar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone https://github.com/cleber2010/Projeto-DIO
