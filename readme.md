@@ -16,7 +16,7 @@ Uma **seção hero** responsiva, moderna e minimalista, ideal para páginas de p
 ### 2. 💬 Ícone de Chatbot  
 Um **ícone animado de chatbot**, feito apenas com HTML e CSS.  
 📸 **Preview:**  
-![Chatbot Icon](./prints/chatbot.gif)  
+![Chatbot Icon](./prints/Animação%20chatbot.gif)  
 
 ---
 
